@@ -77,5 +77,5 @@ Here are some ideas to get you started:
 
 - Электронная почта: nargo0o@gmail.com
 - Telegram: @nargo0o
-- LinkedIn: [nargo0o](https://www.linkedin.com/in/nargo0o/) -->
+- LinkedIn: [Nargo](https://www.linkedin.com/in/nargo0o/) -->
 
