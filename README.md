@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 - Электронная почта: nargo4535@mgmail.com
 - Telegram: @nargo0o
-- LinkedIn: [Nargo]([https://www.linkedin.com/in/nargo0o/](https://www.linkedin.com/in/nargo-raitman-765802168/)
+- LinkedIn: [nargo0o](https://www.linkedin.com/in/nargo-raitman-765802168/)
 
 
 
