@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 | Репозиторий | Описание | Технологии |
 |-------------|----------| ---------- |
 | [DevOps Tools](https://github.com/nargo0o/devops_tools) | Автоматизация развертывания веб-приложения | Terraform, Yandex Cloud, Ansible, Jenkins |
-| [Django Application](https://github.com/nargo0o/devops_project) | Веб-приложение на Django | python, Django, JavaScript, Jenkins |
+| [Django Application](https://github.com/nargo0o/geekshop1) | Веб-приложение на Django | python, Django, JavaScript, HTML, CSS |
 | [Apache2 Installation](https://github.com/nargo0o/ansible) | Установка и конфигурация apache2 | Ansible |
 <!-- | [GitLab CI/CD Pipeline](https://github.com/nargo0o/gitlab-ci-cd-pipeline) | Настройка CI/CD пайплайна на GitLab | GitLab CI/CD | -->
 
