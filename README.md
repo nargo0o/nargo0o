@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 | Репозиторий | Описание |
 |-------------|----------|
-| [project1](https://github.com/nargo0o/devops_tools) | Автоматизация развертывания веб-приложения |
-| [project2](https://github.com/nargo0o/devops_project) | Веб-приложение на Django |
-| [project3](https://github.com/nargo0o/ansible) | Установка и конфигурация apache2 с использованием Ansible |
+| [DevOps Tools](https://github.com/nargo0o/devops_tools) | Автоматизация развертывания веб-приложения |
+| [Django Application](https://github.com/nargo0o/devops_project) | Веб-приложение на Django |
+| [Apache2 Installation](https://github.com/nargo0o/ansible) | Установка и конфигурация apache2 с использованием Ansible |
 
 
  ## 📈 Статистика
