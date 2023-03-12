@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Привет, я Нарго 👋
-![nargo0o](https://i.imgur.com/nxpPcHm.png)
+<!-- ![nargo0o]() -->
 
 Я здесь, чтобы делиться своими проектами у учиться новому. Я постоянно учусь и расширяю свои знания. В настоящее время я изучаю Компьютерные Сети, чтобы стать квалифицированным DevOps инженером.
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | [DevOps Tools](https://github.com/nargo0o/devops_tools) | Автоматизация развертывания веб-приложения | Terraform, Yandex Cloud, Ansible, Jenkins |
 | [Django Application](https://github.com/nargo0o/devops_project) | Веб-приложение на Django | python, Django, JavaScript, Jenkins |
 | [Apache2 Installation](https://github.com/nargo0o/ansible) | Установка и конфигурация apache2 | Ansible |
-| [GitLab CI/CD Pipeline](https://github.com/nargo0o/gitlab-ci-cd-pipeline) | Настройка CI/CD пайплайна на GitLab | GitLab CI/CD |
+<!-- | [GitLab CI/CD Pipeline](https://github.com/nargo0o/gitlab-ci-cd-pipeline) | Настройка CI/CD пайплайна на GitLab | GitLab CI/CD | -->
 
 
  ## 📈 Статистика
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 - Электронная почта: nargo4535@mgmail.com
 - Telegram: @nargo0o
-- LinkedIn: [nargo0o](https://www.linkedin.com/in/nargo0o/)
+- LinkedIn: [Nargo]([https://www.linkedin.com/in/nargo0o/](https://www.linkedin.com/in/nargo-raitman-765802168/))
 
 
 
