@@ -24,6 +24,6 @@
 
 Если у вас есть какие-либо вопросы или предложения, не стесняйтесь связаться со мной по:
 
-- Электронная почта: nargo4535@mgmail.com
+- Электронная почта: nargo4535@gmail.com
 - Telegram: @nargo0o
 - LinkedIn: [nargo0o](https://www.linkedin.com/in/nargo-raitman-765802168/)
