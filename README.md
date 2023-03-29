@@ -1,28 +1,28 @@
-# Привет, я Нарго 👋
+# Hi, i am Nargo 👋
 
 Я здесь, чтобы делиться своими проектами у учиться новому. Я постоянно учусь и расширяю свои знания. В настоящее время я изучаю Компьютерные Сети, чтобы стать квалифицированным DevOps инженером.
 
-## 🚀 Проекты
+## 🚀 Projects
 
 
-| Репозиторий | Описание | Технологии |
+| Repository | Description | Technologies |
 |-------------|----------| ---------- |
-| [DevOps Tools](https://github.com/nargo0o/devops_tools) | Автоматизация развертывания веб-приложения | Terraform, Yandex Cloud, Ansible, Jenkins |
-| [Django Application](https://github.com/nargo0o/geekshop1) | Веб-приложение на Django | python, Django, JavaScript, HTML, CSS |
-| [Apache2 Installation](https://github.com/nargo0o/ansible) | Установка и конфигурация apache2 | Ansible |
-| [SimbirSoft task](https://github.com/nargo0o/flaskex/) | Упаковка и запуск приложения в docker | Flask, Docker |
+| [DevOps Tools](https://github.com/nargo0o/devops_tools) | Automation of web application deployment | Terraform, Yandex Cloud, Ansible, Jenkins |
+| [Django Application](https://github.com/nargo0o/geekshop1) | Django web application | python, Django, JavaScript, HTML, CSS |
+| [Apache2 Installation](https://github.com/nargo0o/ansible) | Installation and configuration of apache2 | Ansible |
+| [SimbirSoft task](https://github.com/nargo0o/flaskex/) | Packaging and running the application in docker | Flask, Docker |
 
 
- ## 📈 Статистика
+ ## 📈 Statistics
  
  
 ![Статистика GitHub пользователя](https://github-readme-stats.vercel.app/api?username=nargo0o&show_icons=true&theme=dracula)
   
 
-## 📞 Связаться со мной
+## 📞 Contacts
 
-Если у вас есть какие-либо вопросы или предложения, не стесняйтесь связаться со мной по:
+If you have any questions or suggestions, feel free to contact me::
 
-- Электронная почта: nargo4535@gmail.com
+- Email: nargo4535@gmail.com
 - Telegram: @nargo0o
 - LinkedIn: [nargo0o](https://www.linkedin.com/in/nargo-raitman-765802168/)
