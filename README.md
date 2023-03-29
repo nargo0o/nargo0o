@@ -11,7 +11,7 @@
 | [DevOps Tools](https://github.com/nargo0o/devops_tools) | Автоматизация развертывания веб-приложения | Terraform, Yandex Cloud, Ansible, Jenkins |
 | [Django Application](https://github.com/nargo0o/geekshop1) | Веб-приложение на Django | python, Django, JavaScript, HTML, CSS |
 | [Apache2 Installation](https://github.com/nargo0o/ansible) | Установка и конфигурация apache2 | Ansible |
-<!-- | [GitLab CI/CD Pipeline](https://github.com/nargo0o/gitlab-ci-cd-pipeline) | Настройка CI/CD пайплайна на GitLab | GitLab CI/CD | -->
+| [SimbirSoft task](https://github.com/nargo0o/flaskex/) | Упаковка и запуск приложения в docker | Flask, Docker |
 
 
  ## 📈 Статистика
