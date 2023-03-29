@@ -1,6 +1,6 @@
-# Hi, i am Nargo 👋
+# Welcome to my account👋
 
-Я здесь, чтобы делиться своими проектами у учиться новому. Я постоянно учусь и расширяю свои знания. В настоящее время я изучаю Компьютерные Сети, чтобы стать квалифицированным DevOps инженером.
+Hi! I am Nargo and I'm here to share my projects. I am constantly learning and expanding my knowledge and currently studying Computer Networking to become a qualified DevOps Engineer.
 
 ## 🚀 Projects
 
