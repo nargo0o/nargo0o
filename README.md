@@ -1,6 +1,6 @@
 # Welcome to my account👋
 
-Hi! I am Nargo and I'm here to share my projects. I am constantly learning and expanding my knowledge and currently studying Computer Networking to become a qualified DevOps Engineer.
+Hi! I am Nargo and I'm a DevOps Engineer.
 
 ## 🚀 Projects
 
