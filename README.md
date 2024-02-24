@@ -9,8 +9,8 @@ Hi! I am Nargo and I'm a DevOps Engineer.
 |-------------|----------| ---------- |
 | [DevOps Tools](https://github.com/nargo0o/devops_tools) | Automation of web application deployment | Terraform, Yandex Cloud, Ansible, Jenkins |
 | [Django Application](https://github.com/nargo0o/geekshop1) | Django web application | python, Django, JavaScript, HTML, CSS |
-| [Apache2 Installation](https://github.com/nargo0o/ansible) | Installation and configuration of apache2 | Ansible |
-| [SimbirSoft task](https://github.com/nargo0o/flaskex/) | Packaging and running the application in docker | Flask, Docker |
+| [Apache ansible](https://github.com/nargo0o/ansible) | Installation and configuration of apache2 | Ansible |
+| [Sample flask app](https://github.com/nargo0o/flaskex/) | Packaging and running the application in docker | Flask, Docker |
 
 
  ## 📈 Statistics
